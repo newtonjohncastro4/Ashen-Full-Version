@@ -248,4 +248,4 @@ This repository serves as the official landing page for Ashen. The software is d
 **Get the most recent version of Ashen today!**
 
 ---
-**Last updated:** 2026-09-08 12:02:50 UTC
+**Last updated:** 2026-09-08 17:04:50 UTC
